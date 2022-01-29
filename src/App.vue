@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "DELETE",
           "alias": "FC 'Efsee' 2-4601",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///DLS1-C-ORONTEZ-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///DLS1-C-ORONTEZ-ADMINISTRATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "ERASER"
@@ -111,13 +111,13 @@ export default {
         {
           "callsign": "REVENANT",
           "alias": "Percival Cadogan",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///DLS4-C-MADRASSA-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///DLS4-C-MADRASSA-ADMINISTRATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "BREVITY WITHOUT WIT"
         },
         {
-          "callsign": "Space Wizard",
+          "callsign": "SPACE WIZARD",
           "alias": "Lucksea Asmata",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///TLR-C-OLYMPIA-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
@@ -127,7 +127,7 @@ export default {
         {
           "callsign": "VIOLET",
           "alias": "Lynn",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///DLS12-C-SOCKET-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///DLS12-C-SOCKET-ADMINISTRATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GARBAGE APE"
@@ -140,7 +140,7 @@ export default {
         "gate": "Chaumkamba",
         "ring": "Annamite-Line",
         "headerTitle": "Ungratefuls",
-        "headerSubtitle": "Hadii Cell",
+        "headerSubtitle": "// Hadii Cell",
         "subheaderTitle": "Mechanized Squadron",
         "subheaderSubtitle": "THRONEBREAKERS",
       },
