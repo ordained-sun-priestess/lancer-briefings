@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "DELETE",
           "alias": "FC 'Efsee' 2-4601",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///DLS1-C-ORONTEZ-ADMINISTRATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "IDENT f1ef8488-0bd0-4ebe-b7e1-c18a53b896c6-2.4601-Efsee:f1ef8488-0bd0-4ebe-b7e1-c18a53b896c6//NDL-C-STOLEN-SKULL",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "ERASER"
@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "REVENANT",
           "alias": "Percival Cadogan",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///DLS4-C-MADRASSA-ADMINISTRATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "IDENT 2bc41c21-5c93-4272-a8c6-ae2ce291ae5f-Cadogan.Percival:2bc41c21-5c93-4272-a8c6-ae2ce291ae5f//NDL-C-OMEGA-SEPTEMBER",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "BREVITY WITHOUT WIT"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "SPACE WIZARD",
           "alias": "Lucksea Asmata",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///TLR-C-OLYMPIA-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "PLACEHOLDER",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "PLACE HOLDER"
@@ -127,7 +127,7 @@ export default {
         {
           "callsign": "VIOLET",
           "alias": "Lynn",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///DLS12-C-SOCKET-ADMINISTRATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "IDENT e80d2748-b477-4bf8-bd2c-34b0043b77fa-Lynn:e80d2748-b477-4bf8-bd2c-34b0043b77fa//NDL-C-FOURTH-OCTOBER",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GARBAGE APE"
