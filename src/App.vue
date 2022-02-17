@@ -117,14 +117,6 @@ export default {
           "mech": "BREVITY WITHOUT WIT"
         },
         {
-          "callsign": "SPACE WIZARD",
-          "alias": "Lucksea Asmata",
-          "code": "PLACEHOLDER",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "PLACE HOLDER"
-        },
-        {
           "callsign": "VIOLET",
           "alias": "Lynn",
           "code": "IDENT e80d2748-b477-4bf8-bd2c-34b0043b77fa-Lynn:e80d2748-b477-4bf8-bd2c-34b0043b77fa//NDL-C-FOURTH-OCTOBER",
