@@ -73,3 +73,9 @@ Alternatively, if you use github, you can probably rely on github-pages. Take a 
 
 install the [Inline Webviewer](https://foundryvtt.com/packages/inlinewebviewer) module and use the new button to send websites to your players - namely this one. Best viewed at 1920x1080.
 
+## Upload to github steps
+* git init
+* git status
+* use git add for all changed files
+* git commit -m 'your message here' 
+* git push
