@@ -100,7 +100,7 @@ export default {
         },
         {
           "slug": "002",
-          "name": "The Smaller Kind of Union",
+          "name": "On Strike",
           "status": "start"
         },
       ],
