@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
@@ -101,6 +101,21 @@ export default {
         {
           "slug": "002",
           "name": "The Smaller Kind of Union",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "Operation Grand Slam",
+          "status": "start"
+        },
+        {
+          "slug": "004",
+          "name": "Exhuming the Dead",
+          "status": "start"
+        },
+        {
+          "slug": "005",
+          "name": "Wildlife Control",
           "status": "start"
         },
       ],
