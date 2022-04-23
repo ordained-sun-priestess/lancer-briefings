@@ -140,9 +140,9 @@ export default {
           "callsign": "VIOLET",
           "alias": "Lynn",
           "code": "IDENT e80d2748-b477-4bf8-bd2c-34b0043b77fa-Lynn:e80d2748-b477-4bf8-bd2c-34b0043b77fa//NDL-C-FOURTH-OCTOBER",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "GARBAGE APE"
+          "corpro": "HORUS",
+          "frame": "Minotaur",
+          "mech": "20 ARDENT HAMMER SHATTERS REALITY"
         },
       ],
       "header": {
