@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
+      "mission_slug": "005",
       "current_md": "",
       "events": "",
       "missions": [
@@ -121,20 +121,28 @@ export default {
       ],
       "pilots": [
         {
+          "callsign": "ANOMALY",
+          "alias": "Amani Al-Hakim",
+          "code": "IDENT 4aba61e0-807f-496d-addf-930c9b00e790Al.Hakim.Amani:4aba61e0-807f-496d-addf-930c9b00e790//NDL-C-SECOND-ORRERY ",
+          "corpro": "HORUS",
+          "frame": "Lich",
+          "mech": "CHRONOS"
+        },
+        {
           "callsign": "DELETE",
           "alias": "FC 'Efsee' 2-4601",
           "code": "IDENT f1ef8488-0bd0-4ebe-b7e1-c18a53b896c6-2.4601-Efsee:f1ef8488-0bd0-4ebe-b7e1-c18a53b896c6//NDL-C-STOLEN-SKULL",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "ERASER"
+          "corpro": "IPS-N",
+          "frame": "Zheng",
+          "mech": "BACKSPACE"
         },
         {
           "callsign": "REVENANT",
           "alias": "Percival Cadogan",
           "code": "IDENT 2bc41c21-5c93-4272-a8c6-ae2ce291ae5f-Cadogan.Percival:2bc41c21-5c93-4272-a8c6-ae2ce291ae5f//NDL-C-OMEGA-SEPTEMBER",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "BREVITY WITHOUT WIT"
+          "corpro": "IPS-N",
+          "frame": "Tortuga",
+          "mech": "FAITH IN REBELLION"
         },
         {
           "callsign": "VIOLET",
