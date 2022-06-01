@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "005",
+      "mission_slug": "004",
       "current_md": "",
       "events": "",
       "missions": [
@@ -116,7 +116,7 @@ export default {
         {
           "slug": "005",
           "name": "Wildlife Control",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
